@@ -1,0 +1,10 @@
+.tablecontainer {
+  border: 2px groove blueviolet;
+  border-collapse: separate;
+}
+
+tr,
+td,
+th {
+  border: 2px groove chartreuse;
+}
