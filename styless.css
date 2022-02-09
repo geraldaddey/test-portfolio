@@ -1,6 +1,7 @@
 .tablecontainer {
   border: 2px groove blueviolet;
   border-collapse: separate;
+  padding: 10px;
 }
 
 tr,
