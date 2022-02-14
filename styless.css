@@ -9,3 +9,8 @@ td,
 th {
   border: 2px groove chartreuse;
 }
+
+abel {
+  background-color: red;
+  color: red;
+}
